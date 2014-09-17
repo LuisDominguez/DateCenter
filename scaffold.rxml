@@ -3,6 +3,4 @@
 rails g model CenterUser
 rails g model user_appointments center_user_id:integer ,date_quote:datetime ,consulate_branch_id:integer
 
-test
-
 
